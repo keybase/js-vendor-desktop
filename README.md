@@ -8,7 +8,7 @@ This repository contains vendored dependencies for [keybase/client/desktop][keyb
 Within [keybase/client/desktop][keybase/client/desktop], run:
 
 ```sh
-node vendor-install
+npm run vendor-install
 ```
 
 
