@@ -1521,7 +1521,7 @@
     },
     "framed-msgpack-rpc": {
       "version": "1.1.12",
-      "from": "git://github.com/keybase/node-framed-msgpack-rpc.git#672059986d46721c61dd7feb3115e604bf5f54da",
+      "from": "git://github.com/keybase/node-framed-msgpack-rpc.git#f3e1a3eb410e0bcde950bae14ceef7015c7315c8",
       "resolved": "./node_shrinkwrap/framed-msgpack-rpc-1.1.12.tgz"
     },
     "fresh": {
@@ -2259,7 +2259,14 @@
     "mkdirp": {
       "version": "0.5.1",
       "from": "mkdirp@0.5.1",
-      "resolved": "./node_shrinkwrap/mkdirp-0.5.1.tgz"
+      "resolved": "./node_shrinkwrap/mkdirp-0.5.1.tgz",
+      "dependencies": {
+        "minimist": {
+          "version": "0.0.8",
+          "from": "minimist@0.0.8",
+          "resolved": "./node_shrinkwrap/minimist-0.0.8.tgz"
+        }
+      }
     },
     "mkpath": {
       "version": "0.1.0",
