@@ -8,7 +8,7 @@ This repository contains vendored dependencies for [keybase/client/desktop][keyb
 Within [keybase/client/desktop][keybase/client/desktop], run:
 
 ```sh
-KEYBASE_JS_VENDOR_DIR=this/repo/path npm run vendor-install
+KEYBASE_JS_VENDOR_DIR=path/to/js-vendor-desktop npm run vendor-install
 ```
 
 ## Adding/updating vendored npm deps
@@ -16,7 +16,7 @@ KEYBASE_JS_VENDOR_DIR=this/repo/path npm run vendor-install
 ### Automatically
 
 ```sh
-KEYBASE_JS_VENDOR_DIR=this/repo/path npm run vendor-update
+KEYBASE_JS_VENDOR_DIR=path/to/js-vendor-desktop npm run vendor-update
 ```
 ### Manually
 
