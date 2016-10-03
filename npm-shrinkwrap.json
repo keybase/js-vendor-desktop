@@ -35,9 +35,9 @@
       "resolved": "./node_shrinkwrap/after-0.8.1.tgz"
     },
     "ajv": {
-      "version": "4.7.4",
+      "version": "4.7.5",
       "from": "ajv@>=4.7.0 <5.0.0",
-      "resolved": "./node_shrinkwrap/ajv-4.7.4.tgz"
+      "resolved": "./node_shrinkwrap/ajv-4.7.5.tgz"
     },
     "ajv-keywords": {
       "version": "1.1.1",
@@ -80,9 +80,9 @@
       "resolved": "./node_shrinkwrap/anymatch-1.3.0.tgz"
     },
     "argparse": {
-      "version": "1.0.7",
+      "version": "1.0.9",
       "from": "argparse@>=1.0.7 <2.0.0",
-      "resolved": "./node_shrinkwrap/argparse-1.0.7.tgz"
+      "resolved": "./node_shrinkwrap/argparse-1.0.9.tgz"
     },
     "arr-diff": {
       "version": "2.0.0",
@@ -95,9 +95,9 @@
       "resolved": "./node_shrinkwrap/arr-flatten-1.0.1.tgz"
     },
     "array-find-index": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "from": "array-find-index@>=1.0.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/array-find-index-1.0.1.tgz"
+      "resolved": "./node_shrinkwrap/array-find-index-1.0.2.tgz"
     },
     "array-flatten": {
       "version": "1.1.1",
@@ -191,20 +191,15 @@
       "from": "aws4@>=1.2.1 <2.0.0",
       "resolved": "./node_shrinkwrap/aws4-1.4.1.tgz"
     },
-    "babel": {
-      "version": "6.5.2",
-      "from": "babel@6.5.2",
-      "resolved": "./node_shrinkwrap/babel-6.5.2.tgz"
-    },
     "babel-cli": {
       "version": "6.14.0",
       "from": "babel-cli@6.14.0",
       "resolved": "./node_shrinkwrap/babel-cli-6.14.0.tgz"
     },
     "babel-code-frame": {
-      "version": "6.11.0",
+      "version": "6.16.0",
       "from": "babel-code-frame@>=6.8.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-code-frame-6.11.0.tgz",
+      "resolved": "./node_shrinkwrap/babel-code-frame-6.16.0.tgz",
       "dependencies": {
         "js-tokens": {
           "version": "2.0.0",
@@ -224,9 +219,9 @@
       "resolved": "./node_shrinkwrap/babel-eslint-6.1.2.tgz"
     },
     "babel-generator": {
-      "version": "6.14.0",
+      "version": "6.16.0",
       "from": "babel-generator@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-generator-6.14.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-generator-6.16.0.tgz"
     },
     "babel-helper-bindify-decorators": {
       "version": "6.8.0",
@@ -289,19 +284,19 @@
       "resolved": "./node_shrinkwrap/babel-helper-regex-6.9.0.tgz"
     },
     "babel-helper-remap-async-to-generator": {
-      "version": "6.11.2",
-      "from": "babel-helper-remap-async-to-generator@>=6.8.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-helper-remap-async-to-generator-6.11.2.tgz"
+      "version": "6.16.2",
+      "from": "babel-helper-remap-async-to-generator@>=6.16.0 <7.0.0",
+      "resolved": "./node_shrinkwrap/babel-helper-remap-async-to-generator-6.16.2.tgz"
     },
     "babel-helper-replace-supers": {
-      "version": "6.14.0",
+      "version": "6.16.0",
       "from": "babel-helper-replace-supers@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-helper-replace-supers-6.14.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-helper-replace-supers-6.16.0.tgz"
     },
     "babel-helpers": {
-      "version": "6.8.0",
+      "version": "6.16.0",
       "from": "babel-helpers@>=6.8.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-helpers-6.8.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-helpers-6.16.0.tgz"
     },
     "babel-loader": {
       "version": "6.2.5",
@@ -374,9 +369,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-syntax-trailing-function-commas-6.13.0.tgz"
     },
     "babel-plugin-transform-async-to-generator": {
-      "version": "6.8.0",
-      "from": "babel-plugin-transform-async-to-generator@>=6.3.13 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-async-to-generator-6.8.0.tgz"
+      "version": "6.16.0",
+      "from": "babel-plugin-transform-async-to-generator@>=6.16.0 <7.0.0",
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-async-to-generator-6.16.0.tgz"
     },
     "babel-plugin-transform-class-constructor-call": {
       "version": "6.8.0",
@@ -384,9 +379,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-class-constructor-call-6.8.0.tgz"
     },
     "babel-plugin-transform-class-properties": {
-      "version": "6.11.5",
+      "version": "6.16.0",
       "from": "babel-plugin-transform-class-properties@>=6.3.13 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-class-properties-6.11.5.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-class-properties-6.16.0.tgz"
     },
     "babel-plugin-transform-decorators": {
       "version": "6.13.0",
@@ -419,9 +414,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-computed-properties-6.8.0.tgz"
     },
     "babel-plugin-transform-es2015-destructuring": {
-      "version": "6.9.0",
+      "version": "6.16.0",
       "from": "babel-plugin-transform-es2015-destructuring@>=6.9.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-destructuring-6.9.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-destructuring-6.16.0.tgz"
     },
     "babel-plugin-transform-es2015-duplicate-keys": {
       "version": "6.8.0",
@@ -449,9 +444,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-modules-amd-6.8.0.tgz"
     },
     "babel-plugin-transform-es2015-modules-commonjs": {
-      "version": "6.14.0",
+      "version": "6.16.0",
       "from": "babel-plugin-transform-es2015-modules-commonjs@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-modules-commonjs-6.14.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-modules-commonjs-6.16.0.tgz"
     },
     "babel-plugin-transform-es2015-modules-systemjs": {
       "version": "6.14.0",
@@ -469,9 +464,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-object-super-6.8.0.tgz"
     },
     "babel-plugin-transform-es2015-parameters": {
-      "version": "6.11.4",
+      "version": "6.16.0",
       "from": "babel-plugin-transform-es2015-parameters@>=6.9.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-parameters-6.11.4.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-es2015-parameters-6.16.0.tgz"
     },
     "babel-plugin-transform-es2015-shorthand-properties": {
       "version": "6.8.0",
@@ -519,9 +514,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-flow-strip-types-6.14.0.tgz"
     },
     "babel-plugin-transform-object-rest-spread": {
-      "version": "6.8.0",
+      "version": "6.16.0",
       "from": "babel-plugin-transform-object-rest-spread@>=6.3.13 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-object-rest-spread-6.8.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-object-rest-spread-6.16.0.tgz"
     },
     "babel-plugin-transform-react-display-name": {
       "version": "6.8.0",
@@ -544,9 +539,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-react-jsx-source-6.9.0.tgz"
     },
     "babel-plugin-transform-regenerator": {
-      "version": "6.14.0",
+      "version": "6.16.1",
       "from": "babel-plugin-transform-regenerator@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-plugin-transform-regenerator-6.14.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-plugin-transform-regenerator-6.16.1.tgz"
     },
     "babel-plugin-transform-runtime": {
       "version": "6.15.0",
@@ -559,9 +554,9 @@
       "resolved": "./node_shrinkwrap/babel-plugin-transform-strict-mode-6.11.3.tgz"
     },
     "babel-polyfill": {
-      "version": "6.13.0",
+      "version": "6.16.0",
       "from": "babel-polyfill@>=6.9.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-polyfill-6.13.0.tgz",
+      "resolved": "./node_shrinkwrap/babel-polyfill-6.16.0.tgz",
       "dependencies": {
         "core-js": {
           "version": "2.4.1",
@@ -591,29 +586,24 @@
       "resolved": "./node_shrinkwrap/babel-preset-stage-2-6.13.0.tgz"
     },
     "babel-preset-stage-3": {
-      "version": "6.11.0",
+      "version": "6.16.0",
       "from": "babel-preset-stage-3@>=6.11.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-preset-stage-3-6.11.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-preset-stage-3-6.16.0.tgz"
     },
     "babel-register": {
-      "version": "6.14.0",
+      "version": "6.16.3",
       "from": "babel-register@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-register-6.14.0.tgz",
+      "resolved": "./node_shrinkwrap/babel-register-6.16.3.tgz",
       "dependencies": {
+        "babel-core": {
+          "version": "6.16.0",
+          "from": "babel-core@>=6.16.0 <7.0.0",
+          "resolved": "./node_shrinkwrap/babel-core-6.16.0.tgz"
+        },
         "core-js": {
           "version": "2.4.1",
           "from": "core-js@>=2.4.0 <3.0.0",
           "resolved": "./node_shrinkwrap/core-js-2.4.1.tgz"
-        },
-        "source-map": {
-          "version": "0.1.32",
-          "from": "source-map@0.1.32",
-          "resolved": "./node_shrinkwrap/source-map-0.1.32.tgz"
-        },
-        "source-map-support": {
-          "version": "0.2.10",
-          "from": "source-map-support@>=0.2.10 <0.3.0",
-          "resolved": "./node_shrinkwrap/source-map-support-0.2.10.tgz"
         }
       }
     },
@@ -630,19 +620,19 @@
       }
     },
     "babel-template": {
-      "version": "6.15.0",
+      "version": "6.16.0",
       "from": "babel-template@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-template-6.15.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-template-6.16.0.tgz"
     },
     "babel-traverse": {
-      "version": "6.15.0",
+      "version": "6.16.0",
       "from": "babel-traverse@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-traverse-6.15.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-traverse-6.16.0.tgz"
     },
     "babel-types": {
-      "version": "6.15.0",
+      "version": "6.16.0",
       "from": "babel-types@>=6.14.0 <7.0.0",
-      "resolved": "./node_shrinkwrap/babel-types-6.15.0.tgz"
+      "resolved": "./node_shrinkwrap/babel-types-6.16.0.tgz"
     },
     "babylon": {
       "version": "6.11.2",
@@ -692,14 +682,7 @@
     "bcrypt-pbkdf": {
       "version": "1.0.0",
       "from": "bcrypt-pbkdf@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/bcrypt-pbkdf-1.0.0.tgz",
-      "dependencies": {
-        "tweetnacl": {
-          "version": "0.14.3",
-          "from": "tweetnacl@>=0.14.3 <0.15.0",
-          "resolved": "./node_shrinkwrap/tweetnacl-0.14.3.tgz"
-        }
-      }
+      "resolved": "./node_shrinkwrap/bcrypt-pbkdf-1.0.0.tgz"
     },
     "benchmark": {
       "version": "1.0.0",
@@ -940,9 +923,9 @@
       "resolved": "./node_shrinkwrap/co-4.6.0.tgz"
     },
     "code-point-at": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "from": "code-point-at@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/code-point-at-1.0.0.tgz"
+      "resolved": "./node_shrinkwrap/code-point-at-1.0.1.tgz"
     },
     "combined-stream": {
       "version": "1.0.5",
@@ -1474,11 +1457,6 @@
       "from": "eslint-plugin-filenames@1.1.0",
       "resolved": "./node_shrinkwrap/eslint-plugin-filenames-1.1.0.tgz"
     },
-    "eslint-plugin-flow-vars": {
-      "version": "0.5.0",
-      "from": "eslint-plugin-flow-vars@0.5.0",
-      "resolved": "./node_shrinkwrap/eslint-plugin-flow-vars-0.5.0.tgz"
-    },
     "eslint-plugin-flowtype": {
       "version": "2.18.2",
       "from": "eslint-plugin-flowtype@2.18.2",
@@ -1517,9 +1495,9 @@
       "resolved": "./node_shrinkwrap/eslint-plugin-standard-2.0.0.tgz"
     },
     "espree": {
-      "version": "3.3.0",
+      "version": "3.3.2",
       "from": "espree@>=3.1.6 <4.0.0",
-      "resolved": "./node_shrinkwrap/espree-3.3.0.tgz"
+      "resolved": "./node_shrinkwrap/espree-3.3.2.tgz"
     },
     "esprima": {
       "version": "2.7.3",
@@ -1643,9 +1621,9 @@
       "resolved": "./node_shrinkwrap/extsprintf-1.0.2.tgz"
     },
     "fast-levenshtein": {
-      "version": "2.0.4",
+      "version": "2.0.5",
       "from": "fast-levenshtein@>=2.0.4 <2.1.0",
-      "resolved": "./node_shrinkwrap/fast-levenshtein-2.0.4.tgz"
+      "resolved": "./node_shrinkwrap/fast-levenshtein-2.0.5.tgz"
     },
     "faye-websocket": {
       "version": "0.10.0",
@@ -1653,9 +1631,9 @@
       "resolved": "./node_shrinkwrap/faye-websocket-0.10.0.tgz"
     },
     "fbjs": {
-      "version": "0.8.4",
+      "version": "0.8.5",
       "from": "fbjs@>=0.8.0 <0.9.0",
-      "resolved": "./node_shrinkwrap/fbjs-0.8.4.tgz"
+      "resolved": "./node_shrinkwrap/fbjs-0.8.5.tgz"
     },
     "fd-slicer": {
       "version": "1.0.1",
@@ -1851,9 +1829,9 @@
       }
     },
     "graceful-fs": {
-      "version": "4.1.6",
+      "version": "4.1.9",
       "from": "graceful-fs@>=4.1.6 <5.0.0",
-      "resolved": "./node_shrinkwrap/graceful-fs-4.1.6.tgz"
+      "resolved": "./node_shrinkwrap/graceful-fs-4.1.9.tgz"
     },
     "graceful-readlink": {
       "version": "1.0.1",
@@ -1983,13 +1961,30 @@
     },
     "http-proxy": {
       "version": "1.15.1",
-      "from": "http-proxy@>=1.14.0 <2.0.0",
+      "from": "http-proxy@>=1.15.1 <2.0.0",
       "resolved": "./node_shrinkwrap/http-proxy-1.15.1.tgz"
     },
     "http-proxy-middleware": {
-      "version": "0.17.1",
+      "version": "0.17.2",
       "from": "http-proxy-middleware@>=0.17.1 <0.18.0",
-      "resolved": "./node_shrinkwrap/http-proxy-middleware-0.17.1.tgz"
+      "resolved": "./node_shrinkwrap/http-proxy-middleware-0.17.2.tgz",
+      "dependencies": {
+        "is-extglob": {
+          "version": "2.0.0",
+          "from": "is-extglob@>=2.0.0 <3.0.0",
+          "resolved": "./node_shrinkwrap/is-extglob-2.0.0.tgz"
+        },
+        "is-glob": {
+          "version": "3.0.0",
+          "from": "is-glob@>=3.0.0 <4.0.0",
+          "resolved": "./node_shrinkwrap/is-glob-3.0.0.tgz"
+        },
+        "lodash": {
+          "version": "4.16.2",
+          "from": "lodash@>=4.16.2 <5.0.0",
+          "resolved": "./node_shrinkwrap/lodash-4.16.2.tgz"
+        }
+      }
     },
     "http-signature": {
       "version": "1.1.1",
@@ -2154,9 +2149,9 @@
       "resolved": "./node_shrinkwrap/is-extglob-1.0.0.tgz"
     },
     "is-finite": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "from": "is-finite@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/is-finite-1.0.1.tgz"
+      "resolved": "./node_shrinkwrap/is-finite-1.0.2.tgz"
     },
     "is-fullwidth-code-point": {
       "version": "1.0.0",
@@ -2279,9 +2274,9 @@
       "resolved": "./node_shrinkwrap/jsbn-0.1.0.tgz"
     },
     "jsesc": {
-      "version": "0.5.0",
-      "from": "jsesc@>=0.5.0 <0.6.0",
-      "resolved": "./node_shrinkwrap/jsesc-0.5.0.tgz"
+      "version": "1.3.0",
+      "from": "jsesc@>=1.3.0 <2.0.0",
+      "resolved": "./node_shrinkwrap/jsesc-1.3.0.tgz"
     },
     "json-schema": {
       "version": "0.2.3",
@@ -2839,9 +2834,9 @@
       "resolved": "./node_shrinkwrap/null-loader-0.1.1.tgz"
     },
     "number-is-nan": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "from": "number-is-nan@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/number-is-nan-1.0.0.tgz"
+      "resolved": "./node_shrinkwrap/number-is-nan-1.0.1.tgz"
     },
     "oauth-sign": {
       "version": "0.8.2",
@@ -2938,14 +2933,14 @@
       "resolved": "./node_shrinkwrap/os-browserify-0.1.2.tgz"
     },
     "os-homedir": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "from": "os-homedir@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/os-homedir-1.0.1.tgz"
+      "resolved": "./node_shrinkwrap/os-homedir-1.0.2.tgz"
     },
     "os-tmpdir": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "from": "os-tmpdir@>=1.0.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/os-tmpdir-1.0.1.tgz"
+      "resolved": "./node_shrinkwrap/os-tmpdir-1.0.2.tgz"
     },
     "output-file-sync": {
       "version": "1.1.2",
@@ -3003,9 +2998,9 @@
       "resolved": "./node_shrinkwrap/path-exists-1.0.0.tgz"
     },
     "path-is-absolute": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "from": "path-is-absolute@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/path-is-absolute-1.0.0.tgz"
+      "resolved": "./node_shrinkwrap/path-is-absolute-1.0.1.tgz"
     },
     "path-is-inside": {
       "version": "1.0.2",
@@ -3422,9 +3417,9 @@
       "resolved": "./node_shrinkwrap/redux-devtools-dock-monitor-1.1.1.tgz"
     },
     "redux-devtools-instrument": {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "from": "redux-devtools-instrument@>=1.0.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/redux-devtools-instrument-1.2.0.tgz"
+      "resolved": "./node_shrinkwrap/redux-devtools-instrument-1.3.0.tgz"
     },
     "redux-devtools-log-monitor": {
       "version": "1.0.11",
@@ -3486,7 +3481,14 @@
     "regjsparser": {
       "version": "0.1.5",
       "from": "regjsparser@>=0.1.4 <0.2.0",
-      "resolved": "./node_shrinkwrap/regjsparser-0.1.5.tgz"
+      "resolved": "./node_shrinkwrap/regjsparser-0.1.5.tgz",
+      "dependencies": {
+        "jsesc": {
+          "version": "0.5.0",
+          "from": "jsesc@>=0.5.0 <0.6.0",
+          "resolved": "./node_shrinkwrap/jsesc-0.5.0.tgz"
+        }
+      }
     },
     "repeat-element": {
       "version": "1.1.2",
@@ -3641,6 +3643,11 @@
           "version": "1.1.3",
           "from": "chalk@1.1.3",
           "resolved": "./node_shrinkwrap/chalk-1.1.3.tgz"
+        },
+        "graceful-fs": {
+          "version": "4.1.6",
+          "from": "graceful-fs@4.1.6",
+          "resolved": "./node_shrinkwrap/graceful-fs-4.1.6.tgz"
         }
       }
     },
@@ -3738,9 +3745,9 @@
       }
     },
     "sockjs": {
-      "version": "0.3.17",
+      "version": "0.3.18",
       "from": "sockjs@>=0.3.15 <0.4.0",
-      "resolved": "./node_shrinkwrap/sockjs-0.3.17.tgz"
+      "resolved": "./node_shrinkwrap/sockjs-0.3.18.tgz"
     },
     "sockjs-client": {
       "version": "1.1.1",
@@ -3802,9 +3809,9 @@
       "resolved": "./node_shrinkwrap/sprintf-js-1.0.3.tgz"
     },
     "sshpk": {
-      "version": "1.10.0",
+      "version": "1.10.1",
       "from": "sshpk@>=1.7.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/sshpk-1.10.0.tgz",
+      "resolved": "./node_shrinkwrap/sshpk-1.10.1.tgz",
       "dependencies": {
         "assert-plus": {
           "version": "1.0.0",
@@ -4017,9 +4024,9 @@
       "resolved": "./node_shrinkwrap/tunnel-agent-0.4.3.tgz"
     },
     "tweetnacl": {
-      "version": "0.13.3",
-      "from": "tweetnacl@>=0.13.0 <0.14.0",
-      "resolved": "./node_shrinkwrap/tweetnacl-0.13.3.tgz"
+      "version": "0.14.3",
+      "from": "tweetnacl@>=0.14.0 <0.15.0",
+      "resolved": "./node_shrinkwrap/tweetnacl-0.14.3.tgz"
     },
     "type-check": {
       "version": "0.3.2",
